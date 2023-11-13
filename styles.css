@@ -1,0 +1,14 @@
+header{
+    background-color: darkblue;
+    border: 5px solid black;
+    position: sticky;
+    margin: 0px;
+}
+body{
+    background-color: slategray;
+}
+.giphy{
+    width: 50 rem;
+    height: 50 rem;
+    display: inline;
+}
